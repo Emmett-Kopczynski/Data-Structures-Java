@@ -15,7 +15,7 @@ import java.lang.IndexOutOfBoundsException;
  * <br>
  * @author Emmett James Kopczynski (emmettkopo@gmail.com)
  */
-public interface List<I> implements toString{
+public interface List<I> {
 
 
     /**
