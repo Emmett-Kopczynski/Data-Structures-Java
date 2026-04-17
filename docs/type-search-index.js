@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"structs.list","l":"LinkedList"},{"p":"listTests","l":"LinkedListTests"},{"p":"structs.list","l":"List"},{"p":"testUtils","l":"Results"}];updateSearchResults();
